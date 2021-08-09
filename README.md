@@ -2,7 +2,8 @@ AboutMy_Self 🤔
 Muhammad Ammar
 CS Under_Graduate,Back-end development is preferred ,Javascript lover, Pro Fifa player, critical observer, curious to learn, hates css see_no_evil, loves inovation and alot more.
 
-An Inventory Management System (Java, JDBC, Mysql, JavaFX) A Compressor (Data Structures,Js,Huffman coding) A basic Banking Management System (Java,OOP)
+An Inventory Management System (Java, JDBC, Mysql, JavaFX) A Compressor (Data Structures,Js,Huffman coding)
+Banking Management System (Java,OOP)
 
 Here are some ideas to get you started:
 
