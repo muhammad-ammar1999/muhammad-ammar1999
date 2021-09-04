@@ -22,10 +22,23 @@ I started learning practical skills from the first year of my bachelors on my ow
 A magic squre(C#)
 notepad creation and intgration with OS (windowsForm)
 An Inventory Management System (Java, JDBC, Mysql, JavaFX)
+MvcMovie(C#,Mysql,JS,HTML,CSS)
+RateListWebApp(C#,Mysql,JS,HTML,CSS,DEVEXPRESS)
+ReactApp(REACTJS)
 
-MS Paint Replica (OpenGL, C++)
+COURSES  
+Data Structures and Algorithms Specialization includes 6 COURSES along with peer graded projects
+Algorithmic Toolbox,Data Structures,Algorithms on Graphs,Algorithms on Strings,Advanced Algorithms and Complexity,Genome Assembly Programming Challenge
+
+Web Design for Everybody: Basics of Web Development & Coding Specialization  includes 5 COURSES along with peer graded projects
+INTRO TO HTML5,INTRO TO CSS3,Interactivity with JavaScript,Advanced Styling with Responsive Design,Web Design for Everybody Capstone
+
+Full-Stack Web Development with React Specialization  includes 3 COURSES along with peer graded projects
+Front-End Web Development with React,Server-side Development with NodeJS, Express and MongoDB
+
+
 👯 About My Job experience
-Currently Working for Ciphertronix,
+Currently Working for Ciphertronix as a dotnet developer  
 Head out to my linkedin to learn more!
 📫 Contact Me
 b18101062muhammad@gmail.com
