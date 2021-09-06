@@ -19,11 +19,12 @@ notepad creation and intgration with OS (windowsForm)
 An Inventory Management System (Java, JDBC, Mysql, JavaFX)
 Banking Management System (Java,OOP)
 String Commpressor(JS)
+DFA(Java)
 MvcMovie(C#,Mysql,JS,HTML,CSS)
 RateListWebApp(C#,Mysql,JS,HTML,CSS,DEVEXPRESS)
 ReactApp(REACTJS)
 
-COURSES  
+COURSES And Specializations 
 Data Structures and Algorithms Specialization includes 6 COURSES along with peer graded projects
 Algorithmic Toolbox,Data Structures,Algorithms on Graphs,Algorithms on Strings,Advanced Algorithms and Complexity,Genome Assembly Programming Challenge
 
