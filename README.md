@@ -13,11 +13,10 @@ CS Under_Graduate,dot net developer ,Javascript lover, Pro Fifa player, critical
 🧐 About my time in university
 I started learning practical skills from the first year of my bachelors on my own, At university, I loved the core CS courses and also implemented their basics concepts i.e OOP, Data structures, Database Management Systems,theory of computer science Networking, Algorithm design and scored above 3 GPA in all of them (Although I barely passed other courses 😀). My helloworld was in C#, Moving on I learned Java, C++, C ,javascript, python during the 3 years. My university projects from beginner level to FYP includes
 
-GenralStore(java)
+Grocery Store(java)
 Banking Management System (Java,OOP)
 notepad creation and intgration with OS (windowsForm)
 An Inventory Management System (Java, JDBC, Mysql, JavaFX)
-Banking Management System (Java,OOP)
 String Commpressor(JS)
 DFA(Java)
 MvcMovie(C#,Mysql,JS,HTML,CSS)
