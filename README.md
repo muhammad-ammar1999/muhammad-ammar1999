@@ -36,7 +36,7 @@ SingleServerQue(modling)
 COURSES  
 all 49 Courses that part of bachelor in computer science 
 
-Specializations
+Specializations 
 
 Data Structures and Algorithms Specialization includes 6 COURSES along with peer graded projects
 Algorithmic Toolbox,Data Structures,Algorithms on Graphs,Algorithms on Strings,Advanced Algorithms and Complexity,Genome Assembly Programming Challenge
