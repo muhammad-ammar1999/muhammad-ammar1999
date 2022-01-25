@@ -43,7 +43,7 @@ Front-End Web Development with React,Server-side Development with NodeJS, Expres
 Currently Working for Ciphertronix as a dotnet developer  
 Head out to my linkedin to learn more!
 📫 Contact Me
-b18101062muhammad@gmail.com
+b18101062muhammadammar@gmail.com
 
 A better version of this readme is coming soon ;-) Cheers!
 
