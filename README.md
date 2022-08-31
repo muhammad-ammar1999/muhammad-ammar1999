@@ -1,6 +1,6 @@
 AboutMy_Self 🤔
 Muhammad Ammar
-CS Under_Graduate,dot net developer ,Javascript lover, Pro Fifa player, critical observer, curious to learn, hates styling, loves inovation and alot more.
+CS Under_Graduate,machine learning engineer , Pro Fifa player, critical observer, curious to learn, hates styling, loves inovation and alot more.
 
 🌱 I’m always a learner ...
 👯 I’m looking to collaborate on ...
@@ -23,6 +23,11 @@ ReactApp(REACTJS),
 DrawApi(turtle graphics)3D scenes,animation using tree js,
 Frontend Compiler (Compiler Construction),
 SingleServerQue(modling),
+subneting,topologies (networking)
+Accounting Cycle (Financial accounting)
+Fraud dectection using machine learning models(AI)
+Growth forecasting WEO (ML)
+
 
 COURSES  
 all 49 Courses that part of bachelor in computer science 
@@ -38,10 +43,12 @@ INTRO TO HTML5,INTRO TO CSS3,Interactivity with JavaScript,Advanced Styling with
 Full-Stack Web Development with React Specialization  includes 3 COURSES along with peer graded projects
 Front-End Web Development with React,Server-side Development with NodeJS, Express and MongoDB
 
+Machine Learning offered by Coursera and Stanford university Taught by Andrew Ng, an AI visionary who has led critical research at Stanford University
 
 👯 About My Job experience
-Currently Working for Ciphertronix as a dotnet developer  
+Internship At Ciphertronix as a dotnet developer  
 Head out to my linkedin to learn more!
+https://www.linkedin.com/in/muhammad-ammar-b307461a2
 📫 Contact Me
 b18101062muhammadammar@gmail.com
 
