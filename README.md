@@ -44,11 +44,13 @@ Full-Stack Web Development with React Specialization  includes 3 COURSES along w
 Front-End Web Development with React,Server-side Development with NodeJS, Express and MongoDB
 
 Machine Learning offered by Coursera and Stanford university Taught by Andrew Ng, an AI visionary who has led critical research at Stanford University
+Getting started Deeplearning with nvidia https://courses.nvidia.com/certificates/2a86faf54a484ba6b37dd54a52e93cd8/
 
 👯 About My Job experience
 Internship At Ciphertronix as a dotnet developer  
 Head out to my linkedin to learn more!
 https://www.linkedin.com/in/muhammad-ammar-b307461a2
+
 📫 Contact Me
 b18101062muhammadammar@gmail.com
 
