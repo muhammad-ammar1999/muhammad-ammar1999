@@ -1,12 +1,10 @@
 AboutMy_Self 🤔
-Muhammad Ammar
-CS Under_Graduate,machine learning engineer , Pro Fifa player, critical observer, curious to learn, hates styling, loves inovation and alot more.
+Hello
+I’m Muhammad
+A machine learning engineer 
+Summary
+A Machine Learning Engineer skilled in  applying machine learning models on real life problems. Consistently working on improving my set of skills with some market working practice Curious to learn new concepts along with their implementation 
 
-🌱 I’m always a learner ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
 
 🧐 About my time in university
 I started learning practical skills from the first year of my bachelors on my own, At university, I loved the core CS courses and also implemented their basics concepts i.e OOP, Data structures, Database Management Systems,theory of computer science Networking, Algorithm design and scored above 3 GPA in all of them (Although I hardly passed other courses). My helloworld was in C#, Moving on I learned Java, C++, C ,javascript, python during the 3 years. My university projects from beginner level to FYP includes
@@ -25,8 +23,9 @@ Frontend Compiler (Compiler Construction),
 SingleServerQue(modling),
 subneting,topologies (networking)
 Accounting Cycle (Financial accounting)
-Fraud dectection using machine learning models(AI)
-Growth forecasting WEO (ML)
+Class imbalance problem,Anomaly detection (Fraud detection)
+Correlation and  Regression analysis (Gdp growth forecast using advance economic indicators)
+
 
 
 COURSES  
@@ -46,6 +45,45 @@ Front-End Web Development with React,Server-side Development with NodeJS, Expres
 Machine Learning offered by Coursera and Stanford university Taught by Andrew Ng, an AI visionary who has led critical research at Stanford University
 Getting started Deeplearning with nvidia https://courses.nvidia.com/certificates/2a86faf54a484ba6b37dd54a52e93cd8/
 
+As machine learning engineer 
+
+Skills
+Cost minimisation 
+Domain analysis Hypotheses evaluation
+dimensionality reduction,data compression 
+parameter surface
+Vectorised implementation 
+Numerical computing (Octave)
+Linear algebra (matrix operation,inverse,transpose ,invertibility 
+
+Models
+Gradient descent 
+Regression (linear,polynomial,normal equation,)
+Discriminative( NN,SVM,logistic regression,decision tree,info gain ,gini index,ensemble model)
+Principal component analysis 
+Generative model 
+Recommendation system 
+Anomaly detection 
+Associate rule mining 
+Unsupervised (k means,
+Deep learning (NN,CNN,RNN,autoencoder
+
+Concepts
+Gradient vanishing,explode,checking 
+Cost function ,Regularisation 
+Activation function (sigmoid ,tanh)
+Under ,over fitting 
+Bias and variance 
+Mathematical intuition of ml algos
+Decision boundary, Learning curve
+Class imbalance (precision,recall,confusion matrix)
+Karnel(linear,gaussian)
+Clustering(centroid,elbow method 
+Progression (change detection,time series)
+Statistics (mean normalisation,sd,covariance matrix ,gaussian dist,conditional probability,likelihood ,posterior,prior,evidence,chain rule,joint distribution )
+Deep learning (back propagation,convolution operation,local receptive field,kernel
+Entropy,embedding,loss
+
 👯 About My Job experience
 Internship At Ciphertronix as a dotnet developer  
 Head out to my linkedin to learn more!
@@ -55,4 +93,3 @@ https://www.linkedin.com/in/muhammad-ammar-b307461a2
 b18101062muhammadammar@gmail.com
 
 A better version of this readme is coming soon ;-) Cheers!
-
